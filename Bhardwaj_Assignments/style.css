@@ -1,0 +1,90 @@
+.header {
+    width: 100%;
+    height: 50px;
+    background-color: red;
+}
+
+.text {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: white;
+    padding-left: 200px;
+    padding-top: 10px;
+}
+
+.content {
+    width: 100%;
+    height: 500px;
+    float: left;
+}
+
+.content h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    padding-left: 200px;
+}
+
+.content p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    padding-left: 182px;
+    padding-top: 40px;
+}
+
+.upper_navigation {
+    margin-top: 50px;
+    clear: both;
+    width: 1500px;
+    height: 70px;
+}
+
+.column {
+    width: 150px;
+    float: left;
+    padding: 1px;
+    margin-left: 25px;
+}
+
+.upper_navigation img {
+    padding-left: 200px;
+    float: left;
+}
+
+.navigation {
+    margin-top: 2px;
+    clear: both;
+    width: 1500px;
+    height: 30px;
+}
+
+.navigation ul {
+    margin: 0px;
+    padding: 0px;
+    margin-left: 200px;
+}
+
+.navigation ul li {
+    display: block;
+    float: left;
+    line-height: 30px;
+    text-align: center;
+    width: 165px;
+}
+
+.navigation ul li a {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    text-decoration: underline;
+}
+
+.button {
+    background-color: red;
+    border: none;
+    color: white;
+    text-align: center;
+    display: inline-block;
+    font-size: 18px;
+    padding: 15px 32px;
+    margin-left: -700px;
+    margin-top: 40px;
+}
